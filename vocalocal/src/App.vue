@@ -17,3 +17,16 @@ export default Component({})(
   }
 );
 </script>
+<style>
+body {
+  background-color: bisque;
+}
+</style>
+<style scoped>
+h1 {
+  background: black;
+  text-align: center;
+  color: #bb8a4a;
+  font-size: 12vh;
+}
+</style>
