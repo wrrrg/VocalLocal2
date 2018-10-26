@@ -12,6 +12,7 @@
     "live-server": "^1.2.0",
     "npm": "^6.4.1",
     "sass-loader": "^7.1.0",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "vue-class-component": "^6.3.2"
   }
 }
