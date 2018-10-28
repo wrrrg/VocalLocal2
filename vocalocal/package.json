@@ -10,7 +10,8 @@
   "dependencies": {
     "tailwindcss": "^0.6.6",
     "vue": "^2.5.17",
-    "vue-class-component": "^6.3.2"
+    "vue-class-component": "^6.3.2",
+    "vue-mq": "^0.2.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.5",
