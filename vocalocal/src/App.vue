@@ -47,7 +47,7 @@ h1 {
   font-size: 15vw;
 }
 
-#test {
+/* #test {
   margin: auto;
-}
+} */
 </style>
