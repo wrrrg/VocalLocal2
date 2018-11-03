@@ -3,6 +3,7 @@
 <div>
 <h1>{{title}}<img src="./assets/iconmonstr-headphones-8.svg" width="200px" height="60px"></h1>
 <location id="test"></location>
+<bands></bands>
 </div>
   <!-- <h1 @click="onClick">
     {{message}}
