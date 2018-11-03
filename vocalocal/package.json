@@ -8,9 +8,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
     "tailwindcss": "^0.6.6",
     "vue": "^2.5.17",
     "vue-class-component": "^6.3.2",
+    "vue-google-oauth": "^1.0.5",
+    "vue-jquery": "^1.0.6",
     "vue-mq": "^0.2.1"
   },
   "devDependencies": {
